@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "question": "Năm nào Bác Hồ đọc Tuyên ngôn Độc lập?",
+    "options": [
+      "1945",
+      "1954",
+      "1975",
+      "1930"
+    ],
+    "correct": "1945",
+    "category": "lich_su_vn",
+    "level": 1
+  },
+  {
+    "id": 2,
+    "question": "Thủ đô của Thái Lan là gì?",
+    "options": [
+      "Bangkok",
+      "Jakarta",
+      "Hà Nội",
+      "Viêng Chăn"
+    ],
+    "correct": "Bangkok",
+    "category": "dia_ly",
+    "level": 1
+  }
+]
